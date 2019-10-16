@@ -1,0 +1,387 @@
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js">
+</script>
+<div class="flexslider-wrapper">
+    <div class="flexslider home" dir="">
+        <ul class="slides" style="transition:0s !important;transform:none">
+            <li>
+                <article class="banner-content-wrapper green hidden-xs">
+                    <div class="col-sm-6 half-modules-outer-container" dir="">
+                        <div class="col-sm-12 text-centered inner-module-banner right-offset-15">
+                            <h2 class="text-white">Save up to 40% on Premium Brand electronics.</h2>
+                            <div class="top-offset-small bottom-offset-small text-white">
+                                Find high-performance electronics and accessories from the premium brands you know and love.
+                            </div>
+                            <div class="text-centered">
+
+                                <a href="//www.dell.com/en-us/shop/electronicssale/ar/8406" class="text-white" target="_self">
+                                            Shop Now
+                                        </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 half-hero-outer-container">
+                        <a href="//www.dell.com/en-us/shop/electronicssale/ar/8406" target="_self">
+                            <div class="text-centered half-image-module" data-testid="banner_image">
+                                <img src="data:image/gif;base64,R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAQAICRAEAOw==" data-blzsrc="//i.dell.com/sites/csimages/Banner_Imagery/all/26712-tv-lg-82-82um8070pua-aa649269-fire-tv-stick-amazon-aa507389-speaker-ultimate-ears-blast-aa060011-540x340.png" alt="Save up to 40% on Premium Brand electronics." class="img-responsive" />
+                            </div>
+                        </a>
+                    </div>
+                </article>
+                <article class="banner-content-wrapper green visible-xs">
+                    <div class="col-xs-12 half-hero-outer-container">
+                        <a href="//www.dell.com/en-us/shop/electronicssale/ar/8406" target="_self">
+                            <div class="text-centered half-image-module" data-testid="banner_image">
+                                <img src="data:image/gif;base64,R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAQAICRAEAOw==" data-blzsrc="//i.dell.com/sites/csimages/Banner_Imagery/all/26712-tv-lg-82-82um8070pua-aa649269-fire-tv-stick-amazon-aa507389-speaker-ultimate-ears-blast-aa060011-540x340.png" alt="Save up to 40% on Premium Brand electronics." class="img-responsive" />
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-xs-12 half-modules-outer-container" dir="">
+                        <div class="text-centered inner-module-banner right-offset-15">
+                            <h2 class="text-white">Save up to 40% on Premium Brand electronics.</h2>
+                            <div class="top-offset-small bottom-offset-small text-white">
+                                Find high-performance electronics and accessories from the premium brands you know and love.
+                            </div>
+                            <div class="text-centered">
+
+                                <a href="//www.dell.com/en-us/shop/electronicssale/ar/8406" class="text-white" target="_self">
+                                            Shop Now
+                                        </a>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+            </li>
+            <li>
+                <article class="banner-content-wrapper gray-light hidden-xs">
+                    <div class="col-sm-6 half-modules-outer-container" dir="">
+                        <div class="col-sm-12 text-centered inner-module-banner right-offset-15">
+                            <h2 class="text-gray-dark">Up to 30% off during our Gaming Event!</h2>
+                            <div class="top-offset-small bottom-offset-small text-gray-dark">
+                                Save on gaming bags, mice &amp; keyboards, headsets, Alienware gear and more during our October Gaming Event.
+                            </div>
+                            <div class="text-centered">
+
+                                <a href="//deals.dell.com/en-us/category/gamingaccessories" class="text-gray-dark" target="_self">
+                                            Shop Now
+                                        </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 half-hero-outer-container">
+                        <a href="//deals.dell.com/en-us/category/gamingaccessories" target="_self">
+                            <div class="text-centered half-image-module" data-testid="banner_image">
+                                <img src="data:image/gif;base64,R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAQAICRAEAOw==" data-blzsrc="//i.dell.com/sites/csimages/Banner_Imagery/all/26699-headset-alienware-aw988-520-aanp-backpack-17-elite-aa352186-keyboard-aw510k-580-aimp-540x340.png" alt="Up to 30% off during our Gaming Event!" class="img-responsive" />
+                            </div>
+                        </a>
+                    </div>
+                </article>
+                <article class="banner-content-wrapper gray-light visible-xs">
+                    <div class="col-xs-12 half-hero-outer-container">
+                        <a href="//deals.dell.com/en-us/category/gamingaccessories" target="_self">
+                            <div class="text-centered half-image-module" data-testid="banner_image">
+                                <img src="data:image/gif;base64,R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAQAICRAEAOw==" data-blzsrc="//i.dell.com/sites/csimages/Banner_Imagery/all/26699-headset-alienware-aw988-520-aanp-backpack-17-elite-aa352186-keyboard-aw510k-580-aimp-540x340.png" alt="Up to 30% off during our Gaming Event!" class="img-responsive" />
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-xs-12 half-modules-outer-container" dir="">
+                        <div class="text-centered inner-module-banner right-offset-15">
+                            <h2 class="text-gray-dark">Up to 30% off during our Gaming Event!</h2>
+                            <div class="top-offset-small bottom-offset-small text-gray-dark">
+                                Save on gaming bags, mice &amp; keyboards, headsets, Alienware gear and more during our October Gaming Event.
+                            </div>
+                            <div class="text-centered">
+
+                                <a href="//deals.dell.com/en-us/category/gamingaccessories" class="text-gray-dark" target="_self">
+                                            Shop Now
+                                        </a>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+            </li>
+            <li>
+                <article class="banner-content-wrapper green hidden-xs">
+                    <div class="col-sm-6 half-modules-outer-container" dir="">
+                        <div class="col-sm-12 text-centered inner-module-banner right-offset-15">
+                            <h2 class="text-white">PCmover® automatically transfers all files from an old PC to new.</h2>
+                            <div class="top-offset-small bottom-offset-small text-white">
+                                It’s the easiest way to move to a new PC without leaving anything behind.
+                            </div>
+                            <div class="text-centered">
+
+                                <a href="//www.dell.com/en-us/shop/accessories/apd/a7197640" class="text-white" target="_self">
+                                            Shop Now
+                                        </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 half-hero-outer-container">
+                        <a href="//www.dell.com/en-us/shop/accessories/apd/a7197640" target="_self">
+                            <div class="text-centered half-image-module" data-testid="banner_image">
+                                <img src="data:image/gif;base64,R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAQAICRAEAOw==" data-blzsrc="//i.dell.com/sites/csimages/Banner_Imagery/all/26689-software-laplink-pcmover-pro-a7197640-540x340.png" alt="PCmover&#174; automatically transfers all files from an old PC to new." class="img-responsive" />
+                            </div>
+                        </a>
+                    </div>
+                </article>
+                <article class="banner-content-wrapper green visible-xs">
+                    <div class="col-xs-12 half-hero-outer-container">
+                        <a href="//www.dell.com/en-us/shop/accessories/apd/a7197640" target="_self">
+                            <div class="text-centered half-image-module" data-testid="banner_image">
+                                <img src="data:image/gif;base64,R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAQAICRAEAOw==" data-blzsrc="//i.dell.com/sites/csimages/Banner_Imagery/all/26689-software-laplink-pcmover-pro-a7197640-540x340.png" alt="PCmover&#174; automatically transfers all files from an old PC to new." class="img-responsive" />
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-xs-12 half-modules-outer-container" dir="">
+                        <div class="text-centered inner-module-banner right-offset-15">
+                            <h2 class="text-white">PCmover® automatically transfers all files from an old PC to new.</h2>
+                            <div class="top-offset-small bottom-offset-small text-white">
+                                It’s the easiest way to move to a new PC without leaving anything behind.
+                            </div>
+                            <div class="text-centered">
+
+                                <a href="//www.dell.com/en-us/shop/accessories/apd/a7197640" class="text-white" target="_self">
+                                            Shop Now
+                                        </a>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+            </li>
+
+        </ul>
+    </div>
+    <ol class="flex-control-nav flex-control-paging">
+        <li class="dellmetrics-pl-tab" data-testid="rotating_banner_tile_1"><a id="firstTab" style="cursor:pointer"><span class="visible-xs visible-sm">1</span><span class="hidden-xs hidden-sm">Save up to 40% on Premium Brand electronics.</span></a></li>
+        <li class="dellmetrics-pl-tab" data-testid="rotating_banner_tile_2">
+            <a id="secondTab" style="cursor:pointer"><span class=" visible-xs visible-sm ">2</span><span class="hidden-xs hidden-sm ">Up to 30% off during our Gaming Event!</span></a></li>
+        <li class="dellmetrics-pl-tab " data-testid="rotating_banner_tile_3 "><a><span class="visible-xs visible-sm ">3</span><span class="hidden-xs hidden-sm ">PCmover® automatically transfers all files from an old PC to new.</span></a></li>
+    </ol>
+</div>
+
+<div class="half-hero " data-testId="category_module_section ">
+    <div class="col-xs-12 col-sm-6 half-hero-outer-container " data-testId="category_module " id="NtwrkingModule">
+        <a href="/en-us/shop/networking/ac/4011 " target="_self ">
+            <div class="text-centered right-offset-15 xs-left-offset-15 gray-light half-image-module ">
+                <img src="data:image/gif;base64,R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAQAICRAEAOw==" data-blzsrc=" //i.dell.com/sites/imagecontent/app-merchandizing/responsive/Shop/SnP/Home/en/PublishingImages/25662-ena-thermostat-nest-a9731361-camera-arlo-vmc4030-a9410493-router-linksys-ea8300-ac2200-a9726810-555x430.png " alt="Networking " class="img-responsive " data-testId="category_module_img " />
+            </div>
+        </a>
+        <div class="text-centered inner-module-banner gray-dark right-offset-15 ">
+            <h2 class="text-white ">Networking</h2>
+            <div class="text-centered text-white display-inline-block ">
+                <a href="//www.dell.com/en-us/shop/networking-deals/ar/8232 " class="second-module-link text-white " target="_self " data-testId="category_module_link_2 ">
+                        Shop Networking Deals
+                    </a>
+                <hr class="visible-xs " />
+                <a href="/en-us/shop/networking/ac/4011 " class="text-white " target="_self " data-testId="category_module_link_1 ">
+                    Shop All Networking
+                </a>
+            </div>
+        </div>
+    </div>
+    <!--
+    <div class="col-xs-12 col-sm-6 half-modules-outer-container " data-testId="featured_module_section ">
+        <div class="col-xs-6 half-modules-inner-container " data-testId="featured_module ">
+            <a href="/en-us/shop/google-wifi-wi-fi-system-3-routers-mesh-gige-80211a-b-g-n-ac-dual-band/apd/a9874726/networking " target="_self ">
+                <div class="half-inner-module-image text-centered ">
+                    <img src="data:image/gif;base64,R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAQAICRAEAOw==" data-blzsrc=" //snpi.dell.com/snp/images2/110/a9874726_v1.jpg " alt="Google Wifi - Wi-Fi system (3 routers) - mesh - GigE - 802.11a/b/g/n/ac - Dual Band " class="img-responsive " data-testId="featured_module_image " />
+                </div>
+                <div class="text-blue text-centered " data-testId="featured_module_title ">
+                    Google Wifi - Wi-Fi system (3 routers) - mesh - GigE - 802.11a/b/g/n/ac - Dual Band
+                </div>
+            </a>
+            <div class="text-centered half-hero-pricing " data-testId="featured_module_price ">
+                Dell Price $259.00
+            </div>
+        </div>
+        <div class="col-xs-6 half-modules-inner-container " data-testId="featured_module ">
+            <a href="/en-us/shop/linksys-velop-whole-home-mesh-wi-fi-system-pack-of-3/apd/a9506557/networking " target="_self ">
+                <div class="half-inner-module-image text-centered ">
+                    <img src="data:image/gif;base64,R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAQAICRAEAOw==" data-blzsrc=" //snpi.dell.com/snp/images2/110/a9506557.jpg " alt="Linksys VELOP Whole Home Mesh Wi-Fi System (Pack of 3) " class="img-responsive " data-testId="featured_module_image " />
+                </div>
+                <div class="text-blue text-centered " data-testId="featured_module_title ">
+                    Linksys VELOP Whole Home Mesh Wi-Fi System (Pack of 3)
+                </div>
+            </a>
+            <div class="text-centered half-hero-pricing " data-testId="featured_module_price ">
+                Dell Price $499.99
+            </div>
+        </div>
+        <div class="col-xs-6 half-modules-inner-container " data-testId="featured_module ">
+            <a href="/en-us/shop/netgear-nighthawk-x10-wireless-ad7200-tri-band-wi-fi-router-black/apd/a9506554/networking " target="_self ">
+                <div class="half-inner-module-image text-centered ">
+                    <img src="data:image/gif;base64,R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAQAICRAEAOw==" data-blzsrc=" //snpi.dell.com/snp/images2/110/a9506554.jpg " alt="NETGEAR - Nighthawk X10 Wireless-AD7200 Tri-Band Wi-Fi Router - Black " class="img-responsive " data-testId="featured_module_image " />
+                </div>
+                <div class="text-blue text-centered " data-testId="featured_module_title ">
+                    NETGEAR - Nighthawk X10 Wireless-AD7200 Tri-Band Wi-Fi Router - Black
+                </div>
+            </a>
+            <div class="text-centered half-hero-pricing " data-testId="featured_module_price ">
+                Dell Price $479.99
+            </div>
+        </div>
+        <div class="col-xs-6 half-modules-inner-container " data-testId="featured_module ">
+            <a href="/en-us/shop/linksys-ea8300-max-stream-ac2200-tri-band-wi-fi-router/apd/a9726810/networking " target="_self ">
+                <div class="half-inner-module-image text-centered ">
+                    <img src="data:image/gif;base64,R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAQAICRAEAOw==" data-blzsrc=" //snpi.dell.com/snp/images2/110/a9726810.jpg " alt="Linksys EA8300 Max-Stream AC2200 Tri-Band Wi-Fi Router " class="img-responsive " data-testId="featured_module_image " />
+                </div>
+                <div class="text-blue text-centered " data-testId="featured_module_title ">
+                    Linksys EA8300 Max-Stream AC2200 Tri-Band Wi-Fi Router
+                </div>
+            </a>
+            <div class="text-centered half-hero-pricing " data-testId="featured_module_price ">
+                Dell Price $199.99
+            </div>
+        </div>
+    </div>-->
+    <div class="col-xs-12 col-sm-6 half-modules-outer-container" data-testId="featured_module_section">
+        <div class="col-xs-6 half-modules-inner-container" data-testId="featured_module">
+            <a href="/en-us/shop/canon-eos-5d-mark-iv-full-frame-digital-slr-camera/apd/a9779735/camera-photo-video" target="_self">
+                <div class="half-inner-module-image text-centered">
+                    <img src="data:image/gif;base64,R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAQAICRAEAOw==" data-blzsrc="//snpi.dell.com/snp/images2/110/a9779735.jpg" alt="Canon EOS 5D Mark IV Full Frame Digital SLR Camera" class="img-responsive" data-testId="featured_module_image" />
+                </div>
+                <div class="text-blue text-centered" data-testId="featured_module_title">
+                    Canon EOS 5D Mark IV Full Frame Digital SLR Camera
+                </div>
+            </a>
+            <div class="text-centered half-hero-pricing" data-testId="featured_module_price">
+                Dell Price $3,699.00
+            </div>
+        </div>
+        <div class="col-xs-6 half-modules-inner-container" data-testId="featured_module">
+            <a href="/en-us/shop/canon-eos-5d-mark-iv-body-only/apd/a9779822/camera-photo-video" target="_self">
+                <div class="half-inner-module-image text-centered">
+                    <img src="data:image/gif;base64,R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAQAICRAEAOw==" data-blzsrc="//snpi.dell.com/snp/images2/110/a9779822.jpg" alt="Canon EOS 5D MARK IV BODY ONLY" class="img-responsive" data-testId="featured_module_image" />
+                </div>
+                <div class="text-blue text-centered" data-testId="featured_module_title">
+                    Canon EOS 5D MARK IV BODY ONLY
+                </div>
+            </a>
+            <div class="text-centered half-hero-pricing" data-testId="featured_module_price">
+                Dell Price $2,799.00
+            </div>
+        </div>
+        <div class="col-xs-6 half-modules-inner-container" data-testId="featured_module">
+            <a href="/en-us/shop/sony-α7r-iii-digital-camera-mirrorless-424-mp-full-frame-4k-30-fps-body-only-wi-fi-nfc-bluetooth/apd/aa011174/camera-photo-video" target="_self">
+                <div class="half-inner-module-image text-centered">
+                    <img src="data:image/gif;base64,R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAQAICRAEAOw==" data-blzsrc="//snpi.dell.com/snp/images2/110/aa011174_v1.jpg" alt="Sony α7R III  Digital Camera Mirrorless - 42.4 MP - Full Frame - 4K / 30 fps Body Only - Wi-Fi, NFC, Bluetooth" class="img-responsive" data-testId="featured_module_image" />
+                </div>
+                <div class="text-blue text-centered" data-testId="featured_module_title">
+                    Sony α7R III Digital Camera Mirrorless - 42.4 MP - Full Frame - 4K / 30 fps Body Only - Wi-Fi, NFC, Bluetooth
+                </div>
+            </a>
+            <div class="text-centered half-hero-pricing" data-testId="featured_module_price">
+                Dell Price $2,499.99
+            </div>
+        </div>
+        <div class="col-xs-6 half-modules-inner-container" data-testId="featured_module">
+            <a href="/en-us/shop/sony-α7-iii-ilce-7m3-digital-camera-mirrorless-242-mp-body-only/apd/aa114448/camera-photo-video" target="_self">
+                <div class="half-inner-module-image text-centered">
+                    <img src="data:image/gif;base64,R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAQAICRAEAOw==" data-blzsrc="//snpi.dell.com/snp/images2/110/aa114448.jpg" alt="Sony α7 III ILCE-7M3 Digital Camera Mirrorless 24.2 MP - Body only" class="img-responsive" data-testId="featured_module_image" />
+                </div>
+                <div class="text-blue text-centered" data-testId="featured_module_title">
+                    Sony α7 III ILCE-7M3 Digital Camera Mirrorless 24.2 MP - Body only
+                </div>
+            </a>
+            <div class="text-centered half-hero-pricing" data-testId="featured_module_price">
+                Dell Price $1,999.99
+            </div>
+        </div>
+    </div>
+</div>
+<div class="half-hero " data-testId="category_module_section ">
+    <div class="col-xs-12 col-sm-6 half-hero-outer-container " data-testId="category_module" id="powerModule">
+        <a href="/en-us/shop/batteries-adapters/ar/6590 " target="_self ">
+            <div class="text-centered right-offset-15 xs-left-offset-15 gray-light half-image-module ">
+                <img src="data:image/gif;base64,R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAQAICRAEAOw==" data-blzsrc=" //i.dell.com/sites/csimages/SNP_Imagery/all/25632-ups-apc-smart.png " alt="Power, Batteries &amp; Adapters " class="img-responsive " data-testId="category_module_img " />
+            </div>
+        </a>
+        <div class="text-centered inner-module-banner gray-dark right-offset-15 ">
+            <h2 class="text-white ">Power, Batteries & Adapters</h2>
+            <div class="text-centered text-white display-inline-block ">
+                <a href="//www.dell.com/en-us/shop/power-deals/ar/8346 " class="second-module-link text-white " target="_self " data-testId="category_module_link_2 ">
+                        Shop Power Deals
+                    </a>
+                <hr class="visible-xs " />
+                <a href="/en-us/shop/batteries-adapters/ar/6590 " class="text-white " target="_self " data-testId="category_module_link_1 ">
+                    Shop All Batteries & Adapters
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-xs-12 col-sm-6 half-modules-outer-container " data-testId="featured_module_section ">
+        <div class="col-xs-6 half-modules-inner-container " data-testId="featured_module ">
+            <a href="/en-us/shop/dell-65-watt-3-prong-ac-adapter-with-6-ft-power-cord/apd/450-aenv/pc-accessories " target="_self ">
+                <div class="half-inner-module-image text-centered ">
+                    <img src="data:image/gif;base64,R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAQAICRAEAOw==" data-blzsrc=" //snpi.dell.com/snp/images2/110/450-aenv.jpg " alt="Dell 65-Watt 3-Prong AC Adapter with 6 ft Power Cord " class="img-responsive " data-testId="featured_module_image " />
+                </div>
+                <div class="text-blue text-centered " data-testId="featured_module_title ">
+                    Dell 65-Watt 3-Prong AC Adapter with 6 ft Power Cord
+                </div>
+            </a>
+            <div class="text-centered half-hero-pricing " data-testId="featured_module_price " id="power1">
+                Dell Price $59.99
+            </div>
+        </div>
+        <div class="col-xs-6 half-modules-inner-container " data-testId="featured_module ">
+            <a href="/en-us/shop/dell-45-watt-3-prong-ac-adapter-with-3-ft-us-power-cord-for-select-dell-xps-inspiron-laptops/apd/492-bbho/pc-accessories " target="_self ">
+                <div class="half-inner-module-image text-centered ">
+                    <img src="data:image/gif;base64,R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAQAICRAEAOw==" data-blzsrc=" //snpi.dell.com/snp/images2/110/492-bbho.jpg " alt="Dell 45-Watt 3-Prong AC Adapter with 3-ft US Power Cord for Select Dell XPS / Inspiron Laptops " class="img-responsive " data-testId="featured_module_image " />
+                </div>
+                <div class="text-blue text-centered " data-testId="featured_module_title ">
+                    Dell 45-Watt 3-Prong AC Adapter with 3-ft US Power Cord for Select Dell XPS / Inspiron Laptops
+                </div>
+            </a>
+            <div class="text-centered half-hero-pricing " data-testId="featured_module_price " id="power2">
+                Dell Price $45.48
+            </div>
+        </div>
+        <div class="col-xs-6 half-modules-inner-container " data-testId="featured_module ">
+            <a href="/en-us/shop/dell-slim-power-adapter-130-watt-with-3-ft-power-cord/apd/332-1829/pc-accessories " target="_self ">
+                <div class="half-inner-module-image text-centered ">
+                    <img src="data:image/gif;base64,R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAQAICRAEAOw==" data-blzsrc=" //snpi.dell.com/snp/images2/110/332-1829r1.jpg " alt="Dell Slim Power Adapter - 130 Watt with 3 ft Power Cord " class="img-responsive " data-testId="featured_module_image " />
+                </div>
+                <div class="text-blue text-centered " data-testId="featured_module_title ">
+                    Dell Slim Power Adapter - 130 Watt with 3 ft Power Cord
+                </div>
+            </a>"
+            <div class="text-centered half-hero-pricing " data-testId="featured_module_price " id="power3">
+                Dell Price $79.99
+            </div>
+        </div>
+        <div class="col-xs-6 half-modules-inner-container " data-testId="featured_module ">
+            <a href="/en-us/shop/dell-40-whr-4-cell-primary-lithium-ion-battery/apd/453-bbbr/pc-accessories " target="_self ">
+                <div class="half-inner-module-image text-centered ">
+                    <img src="data:image/gif;base64,R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAQAICRAEAOw==" data-blzsrc=" //snpi.dell.com/snp/images2/110/453-bbbr_v1.jpg " alt="Dell 40 WHr 4-Cell Primary Lithium-Ion Battery " class="img-responsive " data-testId="featured_module_image " />
+                </div>
+                <div class="text-blue text-centered " data-testId="featured_module_title ">
+                    Dell 40 WHr 4-Cell Primary Lithium-Ion Battery
+                </div>
+            </a>
+            <div class="text-centered half-hero-pricing " data-testId="featured_module_price " id="power4">
+                Dell Price $67.97
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    $("#firstTab").click(function() {
+        $("#NtwrkingModule ").css('background-color', 'purple'); //powerModule
+    });
+    $("#secondTab").click(function() {
+        $("#powerModule ").css('background-color', 'green'); //
+    });
+
+    $(document).ready(function() {
+        //First filter by the Power category and then add the prices
+
+        var power1Cost = parseFloat($("#power1").text().split('$')[1]);
+        var power2Cost = parseFloat($("#power2").text().split('$')[1]);
+        var power3Cost = parseFloat($("#power3").text().split('$')[1]);
+        var power4Cost = parseFloat($("#power4").text().split('$')[1]);
+
+        var tot = power1Cost + power2Cost + power3Cost + power4Cost;
+
+        alert(tot);
+    });
+</script>
