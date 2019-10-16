@@ -1,0 +1,113 @@
+<div class="product-selector jumbotron-overlay">
+    <div class="">
+        <div class="row">
+            <div class="col-lg-12 col-md-12">
+                <div class="col-lg-6 col-md-6 col-xs-12">
+                    <div class="homepageResources">
+                        <div class="resources bottom-offset-30" id="divResourceLinks">
+                            <div class="container">
+                                <div class="row resource-tiles">
+                                    <div id="quickresourcetopdiv" class="col-md-6 col-sm-6 col-xs-12">
+                                        <div class="well card text-center row-overlay">
+                                            <a href="//www.dell.com/support/home/us/en/04?app=licenses" class="card-content">
+                                                <i class="icon-outlined-book text-blue ql-icons quicklink-padding-10"></i>
+                                                <h4 class="heading-light">Software Licenses</h4>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div id="quickresourcetopdiv" class="col-md-6 col-sm-6 col-xs-12">
+                                        <div class="well card text-center row-overlay">
+                                            <a href="//www.dell.com/support/home/us/en/04?app=warranty" class="card-content">
+                                                <i class="icon-outlined-warranty text-blue ql-icons quicklink-padding-10"></i>
+                                                <h4 class="heading-light">Warranty & Contracts</h4>
+                                            </a>
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <div>
+                                    <div id="quickresourcetopdiv" class="col-md-6 col-sm-6 col-xs-12">
+                                        <div class="well card text-center row-overlay">
+                                            <a href="//www.dell.com/support/home/us/en/04?app=drivers" class="card-content">
+                                                <i class="icon-outlined-drivers text-blue ql-icons quicklink-padding-10"></i>
+                                                <h4 class="heading-light">Drivers & Downloads</h4>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div id="quickresourcetopdiv" class="col-md-6 col-sm-6 col-xs-12">
+                                        <div class="well card text-center row-overlay">
+                                            <a href="//www.dell.com/support/home/us/en/04/quicktest" class="card-content">
+                                                <i class="icon-outlined-tools text-blue ql-icons quicklink-padding-10"></i>
+                                                <h4 class="heading-light">Diagnostics & Tools</h4>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="col-lg-6 col-lg-offset-2 col-md-6 col-md-offset-1 col-xs-12 col-xs-offset-0 divHomeEntrySelection">
+                        <!--Entry Selection Component-->
+                        <div class="content-primary entry-loader-initial" id="divEntryLoader">
+                            <h3>Enter a Service Tag, Serial Number, Service Request, Model, or Keyword.<a href="javascript:void(0)" class="entryInfoPop"><i class="icon-small-alertinfo text-blue"></i></a></h3>
+                            <br />
+                            <div class="row">
+                                <div class="col-xs-8">
+                                    <div class="entry-placeholder entry-placeholder-line"></div>
+                                </div>
+                                <div class="col-xs-4">
+                                    <div class="entry-placeholder entry-placeholder-line"></div>
+                                </div>
+                            </div>
+                            <br />
+                            <div class="row">
+                                <div class="col-xs-12">
+                                    <div class="entry-placeholder"></div>
+                                </div>
+                                <div class="col-xs-6">
+                                    <div class="entry-placeholder"></div>
+                                </div>
+                                <div class="col-xs-6">
+                                    <div class="entry-placeholder"></div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!--END Entry Selection Component-->
+                        <div><a href="/support/home/us/en/04/api/catalog/allproducts">Browse all products</a></div>
+                    </div>
+                </div>
+
+                <div class="enterprise-support bottom-offset-30" id="divEnterpriseProductLinks">
+                    <div class="container enterprise-tiles">
+                        <div class="row">
+                            <div class="col-xs-12">
+                                <h2 class="heading-secondary bottom-offset-15">Dell EMC Support Technologies</h2></div>
+                        </div>
+                        <div class="row support-tiles">
+                            <div class="col-sm-6 col-xs-12">
+                                <div class="well card" style="border-left: 3px solid #007db8">
+                                    <a href="//techdirect.dell.com/portal/Login.aspx" class="card-content">
+                                        <h4 class="heading-secondary bottom-offset-15">
+                                        TechDirect
+                                    </h4>
+                                        <p title="Request support or replacement parts online, integrate support APIs into your help desk or train your staff on Dell EMC products. Available for PCs, PowerEdge servers, PowerVault, PS Series and SC Series storage, and Dell EMC networking.">Request support or replacement parts online, integrate support APIs into your help desk or train your staff on Dell EMC products. Available for PCs, PowerEdge servers, PowerVault, PS Series and SC Series storage, and Dell EMC networking.</p>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 col-xs-12">
+                                <div class="well card" style="border-left: 3px solid #777777">
+                                    <a href="https://support.emc.com/myservice360/" class="card-content" data-mh="enterprise-tiles">
+                                        <h4 class="heading-secondary bottom-offset-15">
+                                        MyService360
+                                    </h4>
+                                        <p title="Monitor, plan, and take action on your Dell EMC environment health with real-time insights and visualized trending and analysis of your incidents, install base, health/risk, and onsite services. Available for all data protection and storage (except PS Series and SC Series).">Monitor, plan, and take action on your Dell EMC environment health with real-time insights and visualized trending and analysis of your incidents, install base, health/risk, and onsite services. Available for all data protection and storage (except PS Series and SC Series).</p>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
